@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @charantejr4
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate 
-- 📫 This is my linked in profile url •	www.linkedin.com/in/charan-tej-reddy-051875235
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<!---
-charantejr4/charantejr4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
